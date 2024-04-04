@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/musicPlayer/icon">
+        <file>icon/allloop.svg</file>
+        <file>icon/gecidianji.svg</file>
+        <file>icon/geciweidianji.svg</file>
+        <file>icon/lastone.svg</file>
+        <file>icon/music.svg</file>
+        <file>icon/nextone.svg</file>
+        <file>icon/oneloop.svg</file>
+        <file>icon/openfile.svg</file>
+        <file>icon/pause.svg</file>
+        <file>icon/play.svg</file>
+        <file>icon/playlist.svg</file>
+        <file>icon/stop.svg</file>
+        <file>icon/playlistMusic3.svg</file>
+        <file>icon/playlistMusic4.svg</file>
+        <file>icon/add.svg</file>
+        <file>icon/clear.svg</file>
+        <file>icon/remove.svg</file>
+        <file>icon/lyrics.svg</file>
+    </qresource>
+</RCC>
